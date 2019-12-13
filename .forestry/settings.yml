@@ -9,7 +9,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-  match: "**/*"
   templates:
   - landing-page
   - default
