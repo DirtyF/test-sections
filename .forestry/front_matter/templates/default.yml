@@ -23,3 +23,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- folder/a-subfolder/Another Folder/ooops.md
