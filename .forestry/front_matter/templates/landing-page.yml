@@ -81,5 +81,6 @@ fields:
 pages:
 - another-folder/a-sample-page.md
 - folder/a-sample-page.md
+- folder/a-subfolder/a-sample-page.md
 - index.md
 - pages/a-sample-page.md
