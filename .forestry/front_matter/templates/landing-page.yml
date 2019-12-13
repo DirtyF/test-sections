@@ -79,6 +79,7 @@ fields:
   hidden: true
   default: home
 pages:
+- another-folder/a-sample-page.md
 - folder/a-sample-page.md
 - index.md
 - pages/a-simple-page.md
