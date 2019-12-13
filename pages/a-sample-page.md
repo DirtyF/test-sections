@@ -2,7 +2,7 @@
 heading: Belkirk College
 sub_heading: Engineering and Health Sciences
 layout: home
-title: A simple page
+title: A sample page
 banner_image: ''
 hero_button:
   text: ''
