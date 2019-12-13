@@ -78,9 +78,3 @@ fields:
   type: text
   hidden: true
   default: home
-pages:
-- pages/a-sample-page.md
-- index.md
-- folder/a-subfolder/a-sample-page.md
-- folder/a-sample-page.md
-- another-folder/a-sample-page.md
