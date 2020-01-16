@@ -37,3 +37,10 @@ fields:
       max: '10'
       step: '1'
   label: group
+- name: hidden
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: hidden
+  default: 'true'
