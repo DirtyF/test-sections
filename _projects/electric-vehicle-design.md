@@ -7,7 +7,7 @@ banner_image: "/uploads/2018/02/25/car.jpg"
 sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
 number: '1972'
-float: '3.14'
+float: '3.12'
 group:
   number: "-8"
 
