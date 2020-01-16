@@ -1,5 +1,5 @@
 ---
-label: Test-blocks
+label: Blocks
 hide_body: true
 fields:
 - name: number
@@ -12,7 +12,6 @@ fields:
     min: 
     max: 
     step: 
-    required: true
 - name: float
   type: number
   label: float
@@ -23,7 +22,6 @@ fields:
     min: '0'
     max: '100'
     step: ".00001"
-    required: true
 - name: group
   type: field_group
   config: {}
@@ -38,7 +36,6 @@ fields:
       min: "-10"
       max: '10'
       step: '1'
-      required: true
   label: group
 - name: hidden
   type: text
