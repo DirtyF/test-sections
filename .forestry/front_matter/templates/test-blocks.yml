@@ -12,6 +12,7 @@ fields:
     min: 
     max: 
     step: 
+    required: true
 - name: float
   type: number
   label: float
