@@ -26,3 +26,8 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: include
+  type: include
+  config: {}
+  template: test-blocks
+  label: include
