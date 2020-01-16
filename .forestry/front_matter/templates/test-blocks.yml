@@ -1,4 +1,39 @@
 ---
 label: Test-blocks
 hide_body: true
-fields: []
+fields:
+- name: number
+  type: number
+  label: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: float
+  type: number
+  label: float
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: '100'
+    step: ".01"
+- name: group
+  type: field_group
+  config: {}
+  fields:
+  - name: number
+    type: number
+    label: number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: "-10"
+      max: '10'
+      step: '1'
+  label: group
