@@ -21,7 +21,7 @@ fields:
   config:
     min: '0'
     max: '100'
-    step: ".01"
+    step: ".00001"
 - name: group
   type: field_group
   config: {}
