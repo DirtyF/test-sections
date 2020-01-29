@@ -1,14 +1,13 @@
 ---
-title: Welcome to the Forestry Demo Site!
+title: Bienvenue dans cette démo de Forestry !
 date: 2017-09-25 09:09:13 +0000
 related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
+- _posts/fr/2017-02-12-moderne.md
+- _posts/fr/2017-08-01-bienvenue.md
+sub_heading: Une introduction à Forestry
 tags:
 - Demo
 - Forestry
-layout: post
 banner_image: ''
 ---
 Welcome to the Belkirk College of Engineering Demo Site!

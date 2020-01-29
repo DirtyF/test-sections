@@ -13,6 +13,17 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: "_posts/en"
+      type: posts
+    values:
+      lang: en
+  - scope:
+      path: "_posts/fr"
+      type: posts
+    values:
+      lang: fr
+
 collections:
   people:
     output: true
