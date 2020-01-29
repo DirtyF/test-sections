@@ -5,25 +5,32 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _posts/en
+  label: EN
+  create: documents
+  match: "*"
+  templates:
+  - posts
+- type: heading
+  label: Content
+- type: directory
   path: _posts/fr
   label: FR
   create: documents
   match: "*"
   templates:
   - post
-- type: heading
-  label: Content
+- type: jekyll-posts
+  label: Posts
+  create: all
+  templates:
+  - post
 - type: jekyll-pages
   label: Pages
   create: all
   templates:
   - landing-page
   - default
-- type: jekyll-posts
-  label: Posts
-  create: all
-  templates:
-  - post
 - type: directory
   path: _people
   label: People
