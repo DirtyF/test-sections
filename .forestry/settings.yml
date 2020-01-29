@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: _posts/en
   label: EN
@@ -11,8 +13,6 @@ sections:
   match: "*"
   templates:
   - posts
-- type: heading
-  label: Content
 - type: directory
   path: _posts/fr
   label: FR
@@ -24,6 +24,7 @@ sections:
   label: Posts
   create: all
   templates:
+  - posts
   - post
 - type: jekyll-pages
   label: Pages
