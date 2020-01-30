@@ -9,6 +9,18 @@ fields:
   default: ''
   config:
     required: true
+- name: posts
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-posts
+      file: 
+      path: 
+  label: Posts
 - type: text
   label: Hero Heading
   name: heading
@@ -78,3 +90,11 @@ fields:
   type: text
   hidden: true
   default: home
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types:
+  - test-blocks
+  config:
+    min: 
+    max: 
