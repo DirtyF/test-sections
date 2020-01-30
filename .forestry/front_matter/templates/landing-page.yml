@@ -21,6 +21,14 @@ fields:
       file: 
       path: 
   label: Posts
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types:
+  - test-blocks
+  config:
+    min: 
+    max: 
 - type: text
   label: Hero Heading
   name: heading
@@ -90,11 +98,3 @@ fields:
   type: text
   hidden: true
   default: home
-- name: blocks
-  type: blocks
-  label: blocks
-  template_types:
-  - test-blocks
-  config:
-    min: 
-    max: 
