@@ -1,11 +1,31 @@
 ---
 label: posts
 hide_body: false
+display_field: title
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: date
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
 pages:
 - _posts/en/example.md
