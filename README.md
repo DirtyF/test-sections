@@ -8,7 +8,7 @@ A Jekyll demo site for [Forestry CMS](https://forestry.io).
 
 **I am bold  
 Insert a line break  
-Another one  
+**Another one**  
 I am still bold**  
 And I can type
 
