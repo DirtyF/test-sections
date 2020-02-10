@@ -3,13 +3,13 @@ title: 'Electric Vehicle '
 tags:
 - research
 date: '2018-02-25T19:07:50.000+00:00'
-banner_image: "/uploads/2018/02/25/car.jpg"
+banner_image: https://res.cloudinary.com/forestry-demo/image/upload/v1516806876/uploads/2017/12/forest2.jpg
 sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
-number: "-10"
-float: '99.12000'
+number: -10
+float: 99.12
 group:
-  number: "-9"
+  number: -9
 hidden: I do see you :/
 
 ---
