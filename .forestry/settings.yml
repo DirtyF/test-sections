@@ -51,7 +51,7 @@ sections:
   label: Contact Information
 upload_dir: ''
 public_path: ''
-front_matter_path: https://res.cloudinary.com/forestry-demo/image/upload/f_auto,q_auto
+front_matter_path: https://res.cloudinary.com/forestry-demo/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
