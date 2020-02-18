@@ -16,3 +16,18 @@ fields:
     schema:
       format: markdown
   label: description
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
+- name: canonical
+  type: text
+  config:
+    required: false
+  label: canonical
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
