@@ -1,12 +1,8 @@
 ---
 label: post
 hide_body: false
+display_field: title
 fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
 - name: seo
   type: include
   config: {}
