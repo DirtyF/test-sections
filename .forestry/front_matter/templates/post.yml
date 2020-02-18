@@ -7,6 +7,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: seo
 - type: text
   label: Sub Heading
   name: sub_heading
