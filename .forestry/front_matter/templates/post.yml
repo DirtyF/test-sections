@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/fr/a-new-post-in-fr-folder.md
+- _posts/fr/2020-01-29-a-new-post-in-fr-folder.md
