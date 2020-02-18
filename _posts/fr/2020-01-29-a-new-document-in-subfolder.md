@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new post in FR folder
+title: A new document in subfolder
 sub_heading: ''
 date: 2020-01-29T23:00:00.000+00:00
 tags: []
