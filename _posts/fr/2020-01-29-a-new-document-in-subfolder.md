@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: overriden
 title: A new document in subfolder
 sub_heading: ''
 date: 2020-01-29T23:00:00.000+00:00
 tags: []
 banner_image: ''
 related_posts: []
+description: ''
+image: ''
+canonical: ''
 
 ---
 ## YouTube
