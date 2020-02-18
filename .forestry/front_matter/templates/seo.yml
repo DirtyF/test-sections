@@ -31,3 +31,9 @@ fields:
   config:
     required: false
   label: permalink
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: false
