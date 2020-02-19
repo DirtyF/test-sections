@@ -1,4 +1,9 @@
 ---
 label: my.template.fr
 hide_body: true
-fields: []
+fields:
+- name: field
+  type: text
+  config:
+    required: false
+  label: field
