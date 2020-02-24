@@ -27,3 +27,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/en/a-new-dradt.md
