@@ -39,6 +39,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/2020-02-05-simple-post.md
-- _posts/fr/2020-01-29-a-new-document-in-subfolder.md
