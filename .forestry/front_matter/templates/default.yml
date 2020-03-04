@@ -13,6 +13,9 @@ fields:
   description: A short description of the page
   config:
     required: true
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: datetime
   name: publish_date
   label: Publish Date
