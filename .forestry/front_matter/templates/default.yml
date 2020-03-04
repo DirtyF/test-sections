@@ -26,9 +26,9 @@ fields:
   label: layout
   hidden: true
   default: post
-- name: color
+- name: background_color
   type: color
-  label: color
+  label: background_color
   config:
     required: true
     color_format: Hex
