@@ -15,7 +15,7 @@ fields:
     required: true
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
 - type: datetime
   name: publish_date
   label: Publish Date
