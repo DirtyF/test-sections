@@ -26,10 +26,3 @@ fields:
   label: layout
   hidden: true
   default: post
-- name: background_color
-  type: color
-  label: background_color
-  config:
-    required: true
-    color_format: Hex
-  default: "#9B9B9B"
