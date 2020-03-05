@@ -34,10 +34,5 @@ fields:
     source:
       type: pages
       section: posts
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post
 pages:
 - _posts/fr/2020-02-23-this-is-a-draft-for-now.md
