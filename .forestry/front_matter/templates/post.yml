@@ -3,11 +3,6 @@ label: post
 hide_body: false
 display_field: title
 fields:
-- name: seo
-  type: include
-  config: {}
-  template: seo
-  label: seo
 - type: text
   label: Sub Heading
   name: sub_heading
@@ -34,6 +29,19 @@ fields:
     source:
       type: pages
       section: posts
+- name: group
+  type: field_group_list
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: seo
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: group
 pages:
 - _posts/2020-02-05-simple-post.md
 - _posts/fr/2020-02-23-this-is-a-draft-for-now.md
