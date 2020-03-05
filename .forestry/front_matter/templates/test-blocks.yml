@@ -2,6 +2,12 @@
 label: Test-blocks
 hide_body: true
 fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+  default: this is the default value
 - name: number
   type: number
   label: number
