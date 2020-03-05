@@ -4,7 +4,13 @@ date:
 tags: []
 banner_image: ''
 related_posts: []
-group: []
+group:
+- title: Hey!
+  description: ''
+  image: ''
+  canonical: ''
+  permalink: ''
+  layout: ''
 
 ---
 What's the default layout value?
