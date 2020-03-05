@@ -8,16 +8,29 @@ fields:
     required: false
   label: text
   default: this is the default value
+- name: select
+  type: select
+  default: default option
+  config:
+    required: false
+    options:
+    - default option
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: select
 - name: number
   type: number
   label: number
   description: ''
-  default: 0
+  default: '1'
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min: '0'
+    max: '1000'
+    step: '1'
     required: true
 - name: float
   type: number
