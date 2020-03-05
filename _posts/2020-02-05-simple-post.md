@@ -11,4 +11,4 @@ banner_image: ''
 related_posts: []
 
 ---
-Is this on?
+Did I inherited the default layout value?

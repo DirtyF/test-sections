@@ -35,4 +35,5 @@ fields:
       type: pages
       section: posts
 pages:
+- _posts/2020-02-05-simple-post.md
 - _posts/fr/2020-02-23-this-is-a-draft-for-now.md
