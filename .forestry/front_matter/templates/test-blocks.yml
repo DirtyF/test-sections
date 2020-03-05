@@ -1,6 +1,7 @@
 ---
-label: Test-blocks
+label: template
 hide_body: true
+display_field: text
 fields:
 - name: text
   type: text
