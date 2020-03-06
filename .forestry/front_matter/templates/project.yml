@@ -41,5 +41,3 @@ fields:
   config: {}
   template: test-blocks
   label: include
-pages:
-- _projects/defaults.md
