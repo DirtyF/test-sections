@@ -25,13 +25,13 @@ fields:
   type: number
   label: number
   description: ''
-  default: '1'
+  default: '0'
   required: true
   config:
     min: '0'
     max: '1000'
     step: '1'
-    required: true
+    required: false
 - name: float
   type: number
   label: float
