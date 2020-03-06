@@ -9,5 +9,7 @@ date:
 tags: []
 banner_image: ''
 related_posts: []
+group: []
 
 ---
+![](https://s3.amazonaws.com/boralex/Chemin_de_croissance_FR_T4_2019.svg)
