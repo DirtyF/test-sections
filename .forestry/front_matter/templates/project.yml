@@ -26,6 +26,16 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: weight
+  type: number
+  label: weight
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: include
   type: include
   config: {}
