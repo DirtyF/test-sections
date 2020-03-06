@@ -52,13 +52,13 @@ fields:
     type: number
     label: number
     description: ''
-    default: 0
+    default: ''
     required: true
     config:
       min: "-10"
       max: '10'
       step: '1'
-      required: true
+      required: false
   label: group
 - name: hidden
   type: text
