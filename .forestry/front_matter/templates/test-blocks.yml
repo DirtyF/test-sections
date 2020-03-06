@@ -8,14 +8,13 @@ fields:
   config:
     required: false
   label: text
-  default: this is the default value
+  default: ''
 - name: select
   type: select
-  default: default option
+  default: ''
   config:
     required: false
-    options:
-    - default option
+    options: []
     source:
       type: simple
       section: 
