@@ -12,4 +12,7 @@ related_posts: []
 group: []
 
 ---
+SVG Boralex
+
 ![](https://s3.amazonaws.com/boralex/Chemin_de_croissance_FR_T4_2019.svg)
+
