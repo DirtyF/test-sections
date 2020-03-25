@@ -26,10 +26,10 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
-upload_dir: uploads
-public_path: "/uploads"
-front_matter_path: https://res.cloudinary.com/forestry-demo/image/upload
-use_front_matter_path: false
+upload_dir: ''
+public_path: ''
+front_matter_path: https://res.cloudinary.com/forestry-demo/image/upload/c_scale,f_auto,q_auto
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
