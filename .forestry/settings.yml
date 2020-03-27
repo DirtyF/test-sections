@@ -4,11 +4,24 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: heading
   label: Content
+- type: directory
+  path: _posts
+  label: Posts
+  create: all
+  match: "**/*"
+  templates:
+  - posts
+  - post
+- type: directory
+  path: en/_posts
+  label: Posts in subfolder
+  create: all
+  match: "**/*"
+  templates:
+  - posts
+  - post
 - type: directory
   path: _people
   label: People

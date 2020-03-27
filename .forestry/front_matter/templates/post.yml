@@ -42,8 +42,3 @@ fields:
     max: 
     labelField: 
   label: group
-pages:
-- _posts/2020-02-05-simple-post.md
-- _posts/fr/2020-02-23-this-is-a-draft-for-now.md
-- _posts/group.md
-- _posts/i-should-inherit-defaults-from-template.md
