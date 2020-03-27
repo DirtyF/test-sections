@@ -1,5 +1,5 @@
 ---
-title: Post in subfolder
+title: This is still a draft
 date: 2020-03-27T09:09:13.000+00:00
 related_posts: []
 sub_heading: This post was created outside of Forestry
