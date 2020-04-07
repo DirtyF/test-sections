@@ -49,9 +49,9 @@ fields:
   fields:
   - name: number
     type: number
-    label: number
+    label: number_default_to_zero
     description: ''
-    default: ''
+    default: 0
     required: true
     config:
       min: "-10"
