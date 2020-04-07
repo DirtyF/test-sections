@@ -42,4 +42,5 @@ fields:
   template: test-blocks
   label: include
 pages:
+- _projects/default-date-to-now.md
 - _projects/defaults.md
