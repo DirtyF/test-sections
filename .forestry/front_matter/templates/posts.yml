@@ -27,5 +27,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- en/_posts/this-is-a-published-post.md

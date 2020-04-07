@@ -58,6 +58,16 @@ fields:
       max: '10'
       step: '1'
       required: false
+  - name: date_to_now
+    type: datetime
+    label: date_to_now
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    default: now
   label: group
 - name: hidden
   type: text
