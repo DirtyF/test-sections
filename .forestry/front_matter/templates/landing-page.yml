@@ -29,8 +29,8 @@ fields:
   config:
     min: 
     max: 
-  description: This is a description with <a href="https://forestry.io/docs" title="">a
-    link to docs</a>.
+  description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
+    title="">a link to docs</a>.
 - type: text
   label: Hero Heading
   name: heading
