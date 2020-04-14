@@ -9,6 +9,8 @@ fields:
   default: ''
   config:
     required: true
+  description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
+    title="">a link to docs</a>.
 - name: posts
   type: select
   default: []
@@ -82,12 +84,17 @@ fields:
     type: file
     hidden: false
     default: ''
+    description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
+      title="">a link to docs</a>.
   hidden: false
   default: ''
+  description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
+    title="">a link to docs</a>.
 - type: boolean
   name: show_news
   label: Show News?
-  description: Enables a news section with a twitter feed & latest posts
+  description: Enables a <strong>news</strong> section with a <a href="https://twitter.com"
+    title="">twitter</a> feed &amp; latest posts
 - type: image_gallery
   name: partners
   label: Partner Logos
