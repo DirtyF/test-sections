@@ -33,6 +33,13 @@ fields:
     max: 
   description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
     title="">a link to docs</a>.
+- name: template
+  type: include
+  config: {}
+  template: test-blocks
+  description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
+    title="">a link to docs</a>.
+  label: template
 - type: text
   label: Hero Heading
   name: heading
