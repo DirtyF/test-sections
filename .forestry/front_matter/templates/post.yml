@@ -53,3 +53,5 @@ fields:
   label: group
   description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
     target="_blank"><strong>See Twitter Documentation</strong></a>
+pages:
+- _posts/2020-02-05-post.en.md
