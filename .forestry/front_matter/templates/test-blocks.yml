@@ -73,7 +73,8 @@ fields:
       display_utc: false
     default: now
   label: group
-  description: "<em>.</em>"
+  description: <em>Description in Markdown</em> - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - name: hidden
   type: text
   config:
