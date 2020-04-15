@@ -100,8 +100,8 @@ fields:
     type: file
     hidden: false
     default: ''
-    description: This is a <strong>description</strong> with <a href="https://forestry.io/docs"
-      title="">a link to docs</a>.
+    description: <em>Description in Markdown</em> -  <a href="https://twitter.com"
+      title="" target="_blank"><strong>See Twitter Documentation</strong></a>
   hidden: false
   default: ''
   description: Description in Markdown -  <a href="https://twitter.com" title="" target="_blank">See
