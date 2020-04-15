@@ -33,7 +33,7 @@ fields:
   config:
     min: 
     max: 
-  description: <em>Description</em> - <a href="https://twitter.com" title="" target="_blank"><strong>Documentation</strong></a>
+  description: <em>Description</em> -- <a href="https://twitter.com" title="" target="_blank"><strong>Documentation</strong></a>
 - name: template
   type: include
   config: {}
