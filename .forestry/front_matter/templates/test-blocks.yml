@@ -9,6 +9,8 @@ fields:
     required: false
   label: text
   default: ''
+  description: <em>Description in Markdown</em> -  <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - name: select
   type: select
   default: ''
@@ -24,7 +26,8 @@ fields:
 - name: number
   type: number
   label: number
-  description: ''
+  description: <em>Description in Markdown</em> -  <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
   default: '0'
   required: true
   config:
@@ -61,7 +64,8 @@ fields:
   - name: date_to_now
     type: datetime
     label: date_to_now
-    description: ''
+    description: <em>Description in Markdown</em> -  <a href="https://twitter.com"
+      title="" target="_blank"><strong>See Twitter Documentation</strong></a>
     config:
       required: false
       date_format: 
@@ -69,6 +73,8 @@ fields:
       display_utc: false
     default: now
   label: group
+  description: <em>Description in Markdown</em> -  <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - name: hidden
   type: text
   config:
