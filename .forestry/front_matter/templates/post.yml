@@ -12,15 +12,20 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
+  description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - type: file
   name: banner_image
   label: Banner Image
-  description: Ideal dimensions 2500px by 1200px
+  description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - type: list
   name: related_posts
   label: Related Posts
@@ -29,6 +34,8 @@ fields:
     source:
       type: pages
       section: posts
+  description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
 - name: group
   type: field_group_list
   fields:
@@ -37,8 +44,12 @@ fields:
     config: {}
     template: seo
     label: seo
+    description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com"
+      title="" target="_blank"><strong>See Twitter Documentation</strong></a>
   config:
     min: 
     max: 
     labelField: 
   label: group
+  description: Ideal dimensions 2500px by 1200px - <a href="https://twitter.com" title=""
+    target="_blank"><strong>See Twitter Documentation</strong></a>
