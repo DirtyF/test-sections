@@ -18,6 +18,8 @@ sections:
   match: "**/*"
   templates:
   - post
+  snippets:
+  - figure.snippet
 - type: directory
   path: en/_posts
   label: Posts in subfolder
@@ -40,6 +42,8 @@ sections:
   match: "*"
   templates:
   - project
+  snippets:
+  - tip.snippet
 - type: document
   path: _data/information.yml
   label: Contact Information
