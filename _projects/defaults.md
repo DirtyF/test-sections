@@ -1,6 +1,6 @@
 ---
 tags: []
-number: 0
+number: 
 hidden: 'true'
 title: defaults
 sub_heading: ''
@@ -12,6 +12,9 @@ select: ''
 float: 
 group:
   number: 
+  date_to_now: ''
 published: false
 
 ---
+
+{% include tip.html tip="Enter your tip here" %}
